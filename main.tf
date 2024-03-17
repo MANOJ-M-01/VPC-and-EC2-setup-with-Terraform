@@ -73,7 +73,7 @@ resource "aws_security_group" "app_sg" {
 }
 
 # Create EC2 Instance
-resource "aws_instance" "app_instance" {
+resource "aws_instance" "app_server" {
   ami           = var.ec2_ami
   instance_type = "t2.micro"
 
