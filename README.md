@@ -1,3 +1,7 @@
+### Network Diagram
+
+<img src="./Network Diagram white.png">  
+
 ### Steps
  - `terraform init`
  - `terraform plan`
