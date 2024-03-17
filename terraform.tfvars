@@ -10,5 +10,5 @@ subnet_name = "MyTestSubnet"
 igw_name = "MyTestIGW"
 
 ##### EC2 INSTANCE #####
-ec2_ami  = "ami-0d7a109bf30624c99"
+ec2_ami  = "ami-007868005aea67c54"
 ec2_name = "MyTestEC2"
