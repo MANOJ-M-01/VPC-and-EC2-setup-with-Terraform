@@ -1,6 +1,6 @@
 ### Network Diagram
 
-<img src="./Network Diagram white.png">  
+<img src="./Network Diagram.png">  
 
 ### Steps
  - `terraform init`
